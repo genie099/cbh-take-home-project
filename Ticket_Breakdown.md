@@ -18,7 +18,7 @@ You will be graded on the level of detail in each ticket, the clarity of the exe
 
 Breakdown Tickets.
 
-Ticket1: Allow facilities to save custom ids for agents 
+        1. Ticket1: Allow facilities to save custom ids for agents 
             1) Description: Now, the system uses internal database ids to identify agents on reports generated
     			for facilities. This ticket involves adding the ability for facilities to save their own custom ids for
     			agents and using those ids when generating reports.
